@@ -29,4 +29,5 @@ https://stackoverflow.com/questions/34286532/communicate-between-different-netwo
 4. Capture keyboard input from connection comp and transfer to remote comp and feed it into a text input
 
 5. Run app on start up, add app exception in the firewall
+
 6. Desing UI and Create installer
