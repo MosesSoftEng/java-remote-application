@@ -12,8 +12,14 @@ An application to allow remote access to a computer from anoter computer or API.
 ## Repository
 https://github.com/MosesSoftEng/java-remote-application
 
-Software development configuration requiremnets
-Java version 11?
+## Development Configuration.
+Java version: 8
+https://www.oracle.com/ke/java/technologies/javase/javase8-archive-downloads.html
+
+IDE: Eclipse IDE 2022‑03
+https://www.eclipse.org/downloads/packages/release/2022-03/r/eclipse-ide-java-developers
+
+DB: File
 
 # Software Requirements for Phase zero 0
 ## Task 0
@@ -21,6 +27,7 @@ Connect two programs on different networks, one acting as a server and the other
 
 ### References
  - Java networking and Socket.
+ - https://www.javatpoint.com/socket-programming
  - https://www.tutorialspoint.com/java/java_networking.htm
  - https://www.wikihow.com/Create-a-Network-Application-in-Java
  - https://stackoverflow.com/questions/34286532/communicate-between-different-network-using-java-socket
